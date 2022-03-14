@@ -1,0 +1,14 @@
+index country "legal model" decrim_date activity substance threshold decision_maker outcome
+0 Armenia "De jure - Statute" " 2008" "Possession of any drug, Social supply of any drug " "All substances" "No thresholds" Police "Confiscation of drug, Voluntary referral"
+1 Croatia "De jure - Statute" " 2013" "Possession of any drug " "All substances" Indicative Prosecution "Confiscation of drug, Fine"
+2 Estonia "De jure - Statute" " 2002" "Possession of any drug " "All substances" Indicative Police Fine
+3 Germany "De jure - Statute" " 1992" "Possession of any drug " "All substances" Indicative "Police, Prosecution" "No sanction"
+4 Italy "De jure - Statute" " 1990" "Possession of any drug, Cultivation of cannabis only, Social supply of cannabis only " "All substances" "No thresholds" Police "Confiscation of drug, Fine, Other administrative penalty, Voluntary referral"
+5 Malta "De jure - Statute" " 2021" "Possession of cannabis only, Cultivation of cannabis only " "Cannabis only" Binding "Judiciary, Police" "No sanction"
+6 Netherlands "De Facto" " 1976" "Possession of any drug, Cultivation of cannabis only " "All substances" Binding Police "No sanction"
+7 Poland "De jure - Statute" " 2011" "Possession of any drug " "All substances" "No thresholds" "Judiciary, Prosecution" "Confiscation of drug, Fine, Other administrative penalty, Voluntary referral"
+8 Portugal "De jure - Statute" " 2001" "Possession of any drug " "All substances" Binding Police "Confiscation of drug, Fine, No sanction, Other administrative penalty, Voluntary referral"
+9 Slovenia "De jure - Statute" " 1999" "Possession of any drug " "All substances" "No thresholds" Judiciary "Confiscation of drug, Fine, Voluntary referral"
+10 Spain "De jure - Statute" " 1983" "Possession of any drug, Cultivation of cannabis only, Social supply of any drug " "All substances" Indicative Police "Fine, No sanction, Other administrative penalty"
+11 Switzerland "De jure - Statute" " 2013" "Possession of any drug, Cultivation of cannabis only, Social supply of any drug " "All substances" Binding Police "Confiscation of drug, Fine, No sanction, Other administrative penalty, Voluntary referral"
+12 "Czech Republic" "De jure - Statute" " 1990" "Possession of any drug, Cultivation of cannabis only " "All substances" Indicative Police "Confiscation of drug, Fine"
