@@ -7,5 +7,5 @@
 bla <br>
 <em> bla </em>
 
-![LSE: A](LSE_sign_language_detector/src/notebooks/mod_collected_images/train/A/izqCaptura_pantalla_2022-03-3.png?raw=true "LSE: A") 
+![LSE: A](images/drugs.jpeg?raw=true "LSE: A") 
 
