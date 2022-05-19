@@ -1,9 +1,9 @@
 # variables
 import numpy as np
-from Nic_EDA_funciones import datos_decrim_web
-from Nic_EDA_funciones import EU_dec_countries
-from Nic_EDA_funciones import european_dec_countries
-from Nic_EDA_funciones import drug_list
+from functions import datos_decrim_web
+from functions import EU_dec_countries
+from functions import european_dec_countries
+from functions import drug_list
 
 drug_list = drug_list()
 EU_countries = ["Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czechia", "Denmark","Estonia", "Finland", "France", "Germany", "Greece", "Hungary","Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden", "United_Kingdom"]

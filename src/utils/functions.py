@@ -6,14 +6,14 @@ import pandas as pd
 # import matplotlib as plt
 # import seaborn as sns
 
-from alumno.Entregas.EDA.NIC_ENTREGABLE_EDA.Nic_Data.Nic_CreatedData.nic_variables import EU_countries
+from variables import EU_countries
 from bs4 import BeautifulSoup as bs
 import requests
 from splinter import Browser
 import folium
 import json
-from Nic_Data.Nic_CreatedData.nic_variables import EU_european_dec_countries, european_countries, EU_countries
-from nic_classes import Drugs 
+from variables import EU_european_dec_countries, european_countries, EU_countries
+from classes import Drugs 
 
 ################################################################################################################################
 
