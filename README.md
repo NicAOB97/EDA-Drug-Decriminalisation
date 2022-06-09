@@ -22,9 +22,9 @@ This project explores the following hypotheses:
 
 ______________________________________________________________________________________________
 
-Data from the [EMCDDA](https://www.emcdda.europa.eu/)<br>
+Data from the [EMCDDA](https://www.emcdda.europa.eu/) and [drug decriminalised countries](https://www.talkingdrugs.org/drug-decriminalisation)<br>
 Having cleaned the data, I explore the given hypotheses using a variety of data analysis methods, looking at rankings, means and changes in time. <br>
-<em> Datos de la </em> [EMCDDA](https://www.emcdda.europa.eu/) <br>
+<em> Datos de la </em> [EMCDDA](https://www.emcdda.europa.eu/) <em> y paises con decriminalización </em> [aqui](https://www.talkingdrugs.org/es)<br>
 <em> Tras limpiar los datos, investigo las hipótesis dadas con un análisis de datos, buscando rankings, medias y cambios en los años.  </em> 
 
 __________________________________________________________________________________
