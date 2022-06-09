@@ -6,7 +6,7 @@
 
 ![LSE: A](images/drugs.jpeg?raw=true "LSE: A") 
 
-Large amounts of money are invested in the war on drugs and the general consensus is that this should continue. However, some countries have decided to test out different approaches. Drug decriminalisation is the act of abolishing criminal punishments related to acts involving drug posession and consumption, these can still have economic sactions attached to them. <br>
+Large amounts of money are invested in the war on drugs and the general consensus is that this should continue. However, some countries have decided to test out different approaches. Drug decriminalisation is the act of abolishing criminal punishments related to acts involving drug possession and consumption, these can still have economic sanctions attached to them. <br>
 This project explores the following hypotheses: 
 - Drug decriminalisation increases levels of wellbeing in a country
 - Decriminalisation will reduce the number of drug related deaths 
