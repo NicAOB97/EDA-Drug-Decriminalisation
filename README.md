@@ -4,7 +4,7 @@
 <strong>EDA project on the effects of drug decriminalisation </strong><br>
 <strong><em>EDA sobre el impacto de la decriminalización de las drogas</em></strong>
 
-![Drugs](images/drugs.jpeg?raw=true "Image of different powdered drugs, pills, syringe") 
+![Image of different powdered drugs, pills, syringe](images/drugs.jpeg?raw=true "Drugs") 
 
 Large amounts of money are invested in the war on drugs and the general consensus is that this should continue. However, some countries have decided to test out different approaches. Drug decriminalisation is the act of abolishing criminal punishments related to acts involving drug possession and consumption, these can still have economic sanctions attached to them. <br>
 This project explores the following hypotheses: 
@@ -32,5 +32,5 @@ ________________________________________________________________________________
 <h2>AUTHOR :black_nib: </h2>
 - Nic Orchard @NicAOB97
 
-![Presentation](presentacion.png?raw=true "Presentation in purple and green tones showing ") 
+![Presentation  in purple and green tones showing ](images/presentacion.png?raw=true "Presentation") 
 
