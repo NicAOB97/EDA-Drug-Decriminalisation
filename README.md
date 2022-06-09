@@ -22,9 +22,9 @@ This project explores the following hypotheses:
 
 ______________________________________________________________________________________________
 
-Data from the EMCDDA: [Link to EMCDDA](https://www.emcdda.europa.eu/)
+Data from the [EMCDDA](https://www.emcdda.europa.eu/)
 I explore the given hypotheses using a variety of data analysis methods. 
-<em> Datos de la EMCDDA:</em> [Link to EMCDDA](https://www.emcdda.europa.eu/) <br>
+<em> Datos de la [EMCDDA]</em>(https://www.emcdda.europa.eu/) <br>
 
 __________________________________________________________________________________
 
