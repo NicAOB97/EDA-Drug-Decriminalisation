@@ -19,3 +19,13 @@ This project explores the following hypotheses:
 - La decriminalización reduce la tasa de mortalidad por droga
 - Incrementa el acceso a cuidados para aquellos que sufren con adicciones
 - Reduce el numero de delitos relacionados con la droga</em> 
+
+<h2>Pre-requisites :black_nib: </h2>
+
+```
+pip install -r requirements.txt 
+```
+
+<h2>AUTHOR :black_nib: </h2>
+- Nic Orchard @NicAOB97
+
