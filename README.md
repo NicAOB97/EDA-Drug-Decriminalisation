@@ -43,7 +43,7 @@ El número de fallecidos por causas relacionadas con el consumo drogas en 2019 v
 Eso si, comparando la tasa de mortalidad antes y después de decriminalizar las drogas en estos países, no vemos ninguna tendencia significativa por lo que parece que no están directamente vinculados la decriminalización y la tasa de mortalidad. <br>
 
 Los resultados tampoco muestran una diferencia en cuanto a la disponibilidad de tratamientos ni el número de personas recibiéndolos, pero si que hay menos delitos registrados. 
-<em>
+</em>
 
 Example of graph- changes in drug related deaths throughout the years: Estonia
  <em>Ejemplo de gráfico- cambios en el numero de muertes relacionadas con el consumo de drogas: Estonia</em>
