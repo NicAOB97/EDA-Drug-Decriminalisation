@@ -22,9 +22,10 @@ This project explores the following hypotheses:
 
 ______________________________________________________________________________________________
 
-Data from the [EMCDDA](https://www.emcdda.europa.eu/)
-I explore the given hypotheses using a variety of data analysis methods. 
+Data from the [EMCDDA](https://www.emcdda.europa.eu/)<br>
+Having cleaned the data, I explore the given hypotheses using a variety of data analysis methods, looking at rankings, means and changes in time. <br>
 <em> Datos de la </em> [EMCDDA](https://www.emcdda.europa.eu/) <br>
+<em> Tras limpiar los datos, investigo las hipótesis dadas con un análisis de datos, buscando rankings, medias y cambios en los años.  </em> 
 
 __________________________________________________________________________________
 
