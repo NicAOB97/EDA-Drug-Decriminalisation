@@ -47,9 +47,9 @@ Los resultados tampoco muestran una direcencia en cuanto a la disponibilidad de 
 <em>
 __________________________________________________________________________________
 
-<h2>AUTHOR :black_nib: </h2>
-- Nic Orchard @NicAOB97
-
-
 ![Presentation  in purple and green tones showing ](images/presentacion.png?raw=true "Presentation") 
 
+__________________________________________________________________________________
+
+<h2>AUTHOR :black_nib: </h2>
+- Nic Orchard @NicAOB97
