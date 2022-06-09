@@ -20,7 +20,7 @@ This project explores the following hypotheses:
 - Incrementa el acceso a cuidados para aquellos que sufren con adicciones
 - Reduce el numero de delitos relacionados con la droga</em> 
 
-<h2>Pre-requisites :black_nib: </h2>
+<h2>Pre-requisites :heavy_check_mark: </h2>
 
 ```
 pip install -r requirements.txt 
