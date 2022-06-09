@@ -45,7 +45,7 @@ Eso si, comparando la tasa de mortalidad antes y después de decriminalizar las 
 Los resultados tampoco muestran una diferencia en cuanto a la disponibilidad de tratamientos ni el número de personas recibiéndolos, pero si que hay menos delitos registrados. 
 </em>
 
-Example of graph- changes in drug related deaths throughout the years: Estonia
+Example of graph- changes in drug related deaths throughout the years: Estonia <br>
  <em>Ejemplo de gráfico- cambios en el numero de muertes relacionadas con el consumo de drogas: Estonia</em>
 ![Example graph 1 changes in drug deaths throughout the years: Estonia](images/ex2.png?raw=true "graph") 
 __________________________________________________________________________________
