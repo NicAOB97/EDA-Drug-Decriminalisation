@@ -4,7 +4,7 @@
 <strong>EDA project on the effects of drug decriminalisation </strong><br>
 <strong><em>EDA sobre el impacto de la decriminalización de las drogas</em></strong>
 
-![LSE: A](images/drugs.jpeg?raw=true "LSE: A") 
+![Drugs](images/drugs.jpeg?raw=true "Image of different powdered drugs, pills, syringe") 
 
 Large amounts of money are invested in the war on drugs and the general consensus is that this should continue. However, some countries have decided to test out different approaches. Drug decriminalisation is the act of abolishing criminal punishments related to acts involving drug possession and consumption, these can still have economic sanctions attached to them. <br>
 This project explores the following hypotheses: 
@@ -24,17 +24,13 @@ ________________________________________________________________________________
 
 Data from the [EMCDDA](https://www.emcdda.europa.eu/) and [drug decriminalised countries](https://www.talkingdrugs.org/drug-decriminalisation)<br>
 Having cleaned the data, I explore the given hypotheses using a variety of data analysis methods, looking at rankings, means and changes in time. <br>
-<em> Datos de la </em> [EMCDDA](https://www.emcdda.europa.eu/) <em> y paises con decriminalización </em> [aqui](https://www.talkingdrugs.org/es)<br>
+<em> Datos de la </em> [EMCDDA](https://www.emcdda.europa.eu/) <em> y de los países con decriminalización </em> [aqui](https://www.talkingdrugs.org/es)<br>
 <em> Tras limpiar los datos, investigo las hipótesis dadas con un análisis de datos, buscando rankings, medias y cambios en los años.  </em> 
 
 __________________________________________________________________________________
 
-<h2>Pre-requisites :heavy_check_mark: </h2>
-
-```
-pip install -r requirements.txt 
-```
-
 <h2>AUTHOR :black_nib: </h2>
 - Nic Orchard @NicAOB97
+
+![Presentation](presentacion.png?raw=true "Presentation in purple and green tones showing ") 
 
