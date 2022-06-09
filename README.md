@@ -27,6 +27,9 @@ Having cleaned the data, I explore the given hypotheses using a variety of data 
 <em> Datos de la </em> [EMCDDA](https://www.emcdda.europa.eu/) <em> y de los países con decriminalización </em> [aqui](https://www.talkingdrugs.org/es)<br>
 <em> Tras limpiar los datos, investigo las hipótesis dadas con un análisis de datos, buscando rankings, medias y cambios en los años.  </em> 
 
+![Example graph 1 changes in drug deaths throughout the years: Estonia](images/ex2.png?raw=true "graph") 
+
+![Percentage](images/ex1.png?raw=true "graph") 
 __________________________________________________________________________________
 <h2> Some Conclusions: </h2>
 In Europe and the EU, 13 countries have decriminalised some or all drugs: Croacia, Estonia, Germany, Italy, Malta, Holand, Poland, Portugal, Slovenia, Spain, Czech Republic. Most of these, bar Holand, have a De Jure model of decriminalisation. This means that there is a legal framework that enforces the deciminalisation, meanwhile in Holand it has been established in time with events. <br>
