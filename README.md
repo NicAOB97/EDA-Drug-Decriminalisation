@@ -14,11 +14,19 @@ This project explores the following hypotheses:
 - It will reduce the amount of drug related crime
 
 <em> Se invierten grandes cantidades de dinero en la guerra contra las drogas y por lo general parecemos seguir en esa trayectoria de inversión. No obstante, algunos países han optado por otras alternativas. La decriminalización de las drogas es la abolición de penas criminales en relación con ciertos actos de posesión y consumo de drogas, dichos actos pueden seguir teniendo multas económicas. </em> <br>
-<em>Este explora las siguientes hipótesis: <br>
+<em>Este proyecto explora las siguientes hipótesis: <br>
 - La decriminalización de drogas incrementa el nivel de bienestar en un país
 - La decriminalización reduce la tasa de mortalidad por droga
 - Incrementa el acceso a cuidados para aquellos que sufren con adicciones
-- Reduce el numero de delitos relacionados con la droga</em> 
+- Reduce el número de delitos relacionados con la droga</em> 
+
+______________________________________________________________________________________________
+
+Data from the EMCDDA: [Link to EMCDDA](https://www.emcdda.europa.eu/)
+I explore the given hypotheses using a variety of data analysis methods. 
+<em> Datos de la EMCDDA:</em> [Link to EMCDDA](https://www.emcdda.europa.eu/) <br>
+
+__________________________________________________________________________________
 
 <h2>Pre-requisites :heavy_check_mark: </h2>
 
